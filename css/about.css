@@ -1,0 +1,43 @@
+body {
+    line-height: 1.6em;
+    padding:0px 0px 0px 25px;
+    background-color: #C2B280;
+}
+
+header {
+    text-shadow: 2px 2px 2px #cfc29b;
+    font-family: 'Lobster Two', cursive;
+    font-size: 48px;
+    padding: 20px 20px 25px 20px;
+    border-bottom: 1px solid #cfc29b;
+}
+
+
+
+h2 {
+    font-family: 'Lobster Two', cursive;
+    text-decoration: underline, #cfc29b;
+    text-shadow: 2px 2px 2px #cfc29b;
+    padding-bottom: 10px;
+}
+
+article {
+    margin-right: 600px;
+    font-family: 'Imprima', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {color:#554a29;}
+a:hover {color:#a5904f;}
+a:visited {color:#554a29;}
+
+div#name {
+    border-bottom: 1px solid #cfc29b;
+}
+
+div#botom {
+    font-family: 'Imprima', sans-serif;
+}
